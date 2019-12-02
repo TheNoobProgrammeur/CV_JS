@@ -75,6 +75,10 @@ p.lead {
   background-color: #28a745;
 }
 
+.card-body:hover {
+  background-color: #dee2e6;
+}
+
 .dev-icons {
   font-size: 3rem;
 }

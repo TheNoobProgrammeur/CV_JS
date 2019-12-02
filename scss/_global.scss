@@ -70,6 +70,14 @@ p.lead {
   }
 }
 
+.card-body{
+  &:hover{
+    background-color: $gray-300;
+
+
+  }
+}
+
 .dev-icons {
   font-size: 3rem;
   .list-inline-item i {
