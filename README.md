@@ -1,6 +1,6 @@
 # curriculum vitae - Antoine Berthier
 
-[![Heroku](http://heroku-badge.herokuapp.com/?app=heroku-badge&root=projects.html)]
+![Heroku](http://heroku-badge.herokuapp.com/?app=heroku-badge&root=projects.html)
 
 CV de présentation :
 
